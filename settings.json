@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": dream
+    "username": afk
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": playgamernet.aternos.me
+    "ip": playgamernet.aternos.me:42155
     "port": 42155
     "version": "",
     "try-creative": false
