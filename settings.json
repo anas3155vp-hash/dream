@@ -3,7 +3,7 @@
   "bot-account": {
     "username": afk
     "password": "",
-    "type": "offline"
+    "type": online
   },
   "server": {
     "ip": playgamernet.aternos.me:42155
